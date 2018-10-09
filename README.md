@@ -1,0 +1,2 @@
+# WeatherSch
+Weather data schiphol
